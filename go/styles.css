@@ -424,7 +424,7 @@ body {
     .grid-container {
         width: 320px;
         gap: 6px;
-        padding: 15px;
+        padding: 10px;
     }
 
     .ball {
